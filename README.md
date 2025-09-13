@@ -106,7 +106,7 @@
     </td>
     <td>
       <a href="https://github.com/alandersontito/qatw-primeira-edicao">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alandersontito&repo=qatw-primeira-edicao&theme=react&bg_color=1F222E&title_color=3DDC84&hide_border=true&icon_color=F8D866&show_icons=false" alt="Projeto 2" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alandersontito&repo=Teste-Automatizado-com-Cypress&theme=react&bg_color=1F222E&title_color=3DDC84&hide_border=true&icon_color=F8D866&show_icons=false" alt="Projeto 2" width="350" />
       </a>
     </td>
   </tr>
