@@ -2,7 +2,7 @@
 
 **`ANALISTA DE QA`**
 
- Possuo habilidades e experiência acadêmica em **testes manuais e automatizados**, desde **levantamento de requisitos** até a construção do **plano de teste** completo. 
+ Possuo habilidades e experiência acadêmica em **testes manuais e automatizados**, desde **levantamento das regras de negócio** até a construção do **plano de teste**. 
  
  Com experiência profissional como Técnico de suporte de TI com atendimentos presenciais e Remotos. 
  
